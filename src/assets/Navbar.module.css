@@ -1,0 +1,26 @@
+.container{
+    height : 40px;
+    width : 99.9%;
+ 
+    border : 1px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 1%;
+}
+
+.child span{
+    font-size: x-large;
+    font-weight: 600;
+    color : white;
+ 
+}
+.child span{
+    text-decoration: none;
+}
+
+.child span:active{
+    color : red;
+}
+
+
